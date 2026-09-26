@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ALINE PRESTIGE TRAVELS",
+      "hasCanvas": false,
+      "bodyTextLen": 3623,
+      "bodyTextHash": "6bb63830a5edbb68276e70b14d7ff9fc8b124246e7b500781140f30c9707db6f",
+      "bodyTextPrefix": "Skip Billetterie Visa Import-Export FAQ FR EN WhatsApp Rendez-vo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ALINE PRESTIGE TRAVELS",
+      "hasCanvas": false,
+      "bodyTextLen": 3567,
+      "bodyTextHash": "216b4ee8b47ba5dd8392e094984669d39edb7ddc57cd77e24995ccbf46cc42bb",
+      "bodyTextPrefix": "Skip FR EN AGENCE DE VOYAGES & AFFAIRES INTERNATIONALES Votre mo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
